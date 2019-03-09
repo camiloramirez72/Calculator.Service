@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CalculatorService.Controllers
 {
-    [Route("calculator/sqrt")]
+    [Route("sqrt")]
     [ApiController]
     public class SqrController : Controller
     {
