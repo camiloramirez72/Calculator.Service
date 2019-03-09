@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CalculatorService.Controllers
 {
-    [Route("calculator/query")]
+    [Route("journal/quer")]
     [ApiController]
     public class QueryController : Controller
     {
