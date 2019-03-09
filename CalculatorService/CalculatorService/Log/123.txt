@@ -1,0 +1,6 @@
+{"Operation": "Sum", "Calculation": "5 + 2 + 4 = 11", "Date": "2019-03-09 01:17:31Z"}
+{"Operation": "Sum", "Calculation": "1 + 2 + 3 = 6", "Date": "2019-03-09 01:18:12Z"}
+{"Operation": "Mult", "Calculation": "1 x 2 x 3 = 6", "Date": "2019-03-09 01:27:21Z"}
+{"Operation": "Div", "Calculation": "5 / 2 result: Quotient = 2", "Date": "2019-03-09 01:37:43Z"}
+{"Operation": "Div", "Calculation": "5 / 2 result: Quotient = 2 Remainder = 1", "Date": "2019-03-09 01:40:13Z"}
+{"Operation": "Sqrt", "Calculation": "5 root  = 2,23606797749979", "Date": "2019-03-09 02:15:24Z"}

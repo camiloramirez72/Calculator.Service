@@ -1,0 +1,14 @@
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\bin\Release\netcoreapp2.1\CalculatorService.deps.json
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\bin\Release\netcoreapp2.1\CalculatorService.runtimeconfig.json
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\bin\Release\netcoreapp2.1\CalculatorService.runtimeconfig.dev.json
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\bin\Release\netcoreapp2.1\CalculatorService.dll
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\bin\Release\netcoreapp2.1\CalculatorService.pdb
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.csprojAssemblyReference.cache
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.RazorAssemblyInfo.cache
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.RazorAssemblyInfo.cs
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.AssemblyInfoInputs.cache
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.AssemblyInfo.cs
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.RazorTargetAssemblyInfo.cache
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.dll
+C:\Users\Pascual\Desktop\proyecto\CalculatorService\CalculatorService\obj\Release\netcoreapp2.1\CalculatorService.pdb
